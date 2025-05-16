@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "category": "groceries",
+    "price": 800,
+    "createdAt": "2025-05-16T22:07:17.351Z"
+  },
+  {
+    "id": 2,
+    "category": "shopping",
+    "price": 800,
+    "createdAt": "2025-05-16T22:07:19.437Z"
+  },
+  {
+    "id": 3,
+    "category": "groceries",
+    "price": 800,
+    "createdAt": "2025-05-16T22:07:20.782Z"
+  },
+  {
+    "id": 4,
+    "category": "fun",
+    "price": 800,
+    "createdAt": "2025-05-16T22:07:21.650Z"
+  },
+  {
+    "id": 5,
+    "category": "fun",
+    "price": 500,
+    "createdAt": "2025-05-16T22:07:22.147Z"
+  }
+]
